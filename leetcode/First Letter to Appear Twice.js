@@ -1,7 +1,3 @@
-/**
- * @param {string} s
- * @return {character}
- */
 var repeatedCharacter = function(s) {
     let hashMap = new Map()
     
